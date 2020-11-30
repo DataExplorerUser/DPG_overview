@@ -1,3 +1,3 @@
-DPG_overview
+Dear PyGui overview
 
-A GUI to start of various dear pygui programs.
+A GUI to start various Dear PyGui programs.
